@@ -26,6 +26,10 @@ Você poderá inserir novos termos/gírias, inserir a explicação dos que não 
 
 ----------
 
+![](https://lh3.googleusercontent.com/XgnRYa7H4v0p33CiyvqXjoe8OIHQnfRgOIKqv5wvsw1bgPqddIQse_v6IZkLPgk_K6tZNDzliMhGQfmmur2s=w1366-h633)
+
+----------
+
 > O projeto é aberto e organizado por [Ana no
 > Terminal](https://www.facebook.com/ananoterminal).
 
