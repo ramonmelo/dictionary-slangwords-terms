@@ -16,6 +16,7 @@ Você poderá inserir novos termos/gírias, inserir a explicação dos que não 
 
 **Regras:**
 
+ - Você pode alterar/inserir/complementar as explicações das palavras;
  - Se você deseja apenas inserir uma palavra e não sabe o que ela significa, insira na última linha do arquivo: new-words.md;
  - Se você deseja inserir a explicação de alguma palavra procure-a no arquivo messy-dictionary.md e insira a explicação logo ao lado da palavra, seguindo o padrão do documento;
  - Se você deseja transferir a palavra e sua explicação do arquivo messy-dictionary.md para dictionary-in-order.md, não esqueça que é em ordem alfabética;
