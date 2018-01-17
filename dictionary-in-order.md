@@ -6,17 +6,19 @@
 
 ## Termos/gírias: Explicação.
 
-  - **bindar:** Sincronizar;
- - **boot:** É um termo usado para referenciar o processo de inicialização do computador./Carregar o sistema operacional;
+ - **ASAP:** Do inglês _As soon as possible_, "assim que possível" ou "o mais breve que conseguir";
+ - **bindar:** Sincronizar. Conectar;
+ - **boot:** É um termo usado para referenciar o processo de inicialização do computador. Carregar o sistema operacional;
  - **buildou:** Se for no contexto de League of Legends, significa comprar itens;
- - **deploy:** Adicionar sua aplicação em um servidor de aplicações;
+ - **deploy:** Adicionar sua aplicação em um servidor de aplicações. Fazer upload de um programa ou aplicativo para um outro computador na nuvem;
  - **distro:** Distribuição Linux;
- - **docker:**  É uma plataforma open source escrito em Go que facilita a criação e administração de ambientes isolados;
+ - **docker:**  É uma plataforma open source escrita em Go que facilita a criação e administração de ambientes isolados. É útil principalmente no controle de recursos computacionais compartilhados, como um servidor que pode ser utilizado pode vários usuários e programas ao mesmo tempo;
  - **framework:** É uma abstração que une códigos comuns entre vários projetos de software promovendo uma funcionalidade genérica;
  - **frontend:** É responsável por coletar a entrada do usuário em várias formas e processá-la para adequá-la a uma especificação em que o back-end possa utilizar.
  - **GNU:** É um sistema operacional tipo Unix cujo objetivo desde sua concepção é oferecer um sistema operacional completo e totalmente composto por software livre - isto é, que respeita a liberdade dos usuários.
  - **GUI:** Graphical User Interface (Interface Gráfica de Usuário), é a interface gráfica de interação entre o usuário e a máquina;
  - **mockup:** Mockups de Interface de Usuário de Software podem variar de layout de tela muito simples desenhados a mão até bitmaps realistas, para interfaces de usuário semi-funcionais desenvolvidas em uma ferramenta de desenvolvimento de software;
+ - **POC:** Do Inglês _Proof of Concept_, ou seja, "prova de conceito". Geralmente é um pequeno programa ou código para testar uma funcionalidade ou criar uma demonstração de um conceito.
  - **release:** Liberação pública de uma nova versão de um programa/documentação ao qual foram adicionadas correções e melhorias;
  - **scrum:** É uma metodologia ágil para gestão e planejamento de projetos de software.
  - **setar:** Informar um valor;
