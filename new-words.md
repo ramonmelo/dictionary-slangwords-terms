@@ -7,7 +7,7 @@
 ## Termos/gírias:
 
  - ad hoc;
- -  lang;
+ - lang;
  - major;
  - minor;
 
