@@ -6,7 +6,7 @@
 
 ## Termos/gírias: Explicação.
 
-- **API:** Application Programming Interface (Interface de Programação de Aplicações);
+
 
 
 ----------

@@ -6,6 +6,7 @@
 
 ## Termos/gírias: Explicação.
 
+ - **API:** Application Programming Interface (Interface de Programação de Aplicações);
  - **ASAP:** Do inglês _As soon as possible_, "assim que possível" ou "o mais breve que conseguir";
  - **back-end:**: Enquanto o front-end trabalha a interface com o usuário, o back-end (ou server side), lida com a regra de negócio, criando as funcionalidades de um sistema;
  - **bindar:** Sincronizar. Conectar;
@@ -19,7 +20,10 @@
  - **full-stack:** Um desenvolvedor que lida tanto com o back-end quanto o front-end;
  - **GNU:** É um sistema operacional tipo Unix cujo objetivo desde sua concepção é oferecer um sistema operacional completo e totalmente composto por software livre - isto é, que respeita a liberdade dos usuários.
  - **GUI:** Graphical User Interface (Interface Gráfica de Usuário), é a interface gráfica de interação entre o usuário e a máquina;
+ - **major:** Ao considerar o versionamento de um software (_major_._minor_._patch_), o termo _major_ representa o avanço de um programa de forma substancial, ou seja, o mesmo evoluiu de uma maneira que se torna incompatível com versões anteriores;
+ - **minor:** Ao considerar o versionamento de um software (_major_._minor_._patch_), o termo _minor_ representa a evolução de um programa com a adição ou ajuste de funcionalidades, mas o mesmo ainda é capaz de se comunicar com versões anteriores;
  - **mockup:** Mockups de Interface de Usuário de Software podem variar de layout de tela muito simples desenhados a mão até bitmaps realistas, para interfaces de usuário semi-funcionais desenvolvidas em uma ferramenta de desenvolvimento de software;
+ - **patch:** Ao considerar o versionamento de um software (_major_._minor_._patch_), o termo _patch_ determina que um determinado programa teve seu código alterado para sanar algum problema (_bug_).
  - **POC:** Do Inglês _Proof of Concept_, ou seja, "prova de conceito". Geralmente é um pequeno programa ou código para testar uma funcionalidade ou criar uma demonstração de um conceito.
  - **POO:** (programação orientada a objetos) É um modelo de análise, projeto e programação de sistemas de software baseado na composição e interação entre unidades de software chamadas de objetos.
  - **release:** Liberação pública de uma nova versão de um programa/documentação ao qual foram adicionadas correções e melhorias;
